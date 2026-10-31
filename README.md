@@ -1,6 +1,6 @@
 # Thornbyte website: deployment guide for thornbyte.in
 
-Files: index.html, robots.txt, sitemap.xml, 404.html, og-image.png, CNAME
+Files: index.html, robots.txt, sitemap.xml, 404.html, og-image.png, CNAME, favicon.ico, favicon.svg, favicon-48x48.png, favicon-96x96.png, icon-192.png, icon-512.png, apple-touch-icon.png, site.webmanifest
 Everything is already set to https://thornbyte.in. Do these steps once GoDaddy shows the domain as Active.
 
 ## 1. Upload to GitHub
